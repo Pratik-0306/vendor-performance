@@ -1,0 +1,18 @@
+# Core libraries
+pandas==2.2.2
+numpy==1.26.4
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+
+# Data preprocessing and EDA
+scipy
+statsmodels
+missingno
+ydata-profiling   # Advanced EDA profiling (formerly pandas-profiling)
+
+# SQL and DB support
+sqlalchemy
+pymysql
